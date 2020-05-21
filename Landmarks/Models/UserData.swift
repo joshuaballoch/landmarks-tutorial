@@ -6,4 +6,10 @@
 //  Copyright © 2020 Thimble. All rights reserved.
 //
 
-import Foundation
+import SwiftUI
+import Combine
+
+final class UserData: ObservableObject {
+    @Published var showFavoritesOnly = false
+    @Published var landmarks = landmarkData
+}

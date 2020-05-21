@@ -34,6 +34,7 @@
 		2127A9272475DB610010C08C /* chincoteague.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2127A91B2475DB610010C08C /* chincoteague.jpg */; };
 		2127A9292475DBC50010C08C /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2127A9282475DBC50010C08C /* Data.swift */; };
 		2127A92B2475DD170010C08C /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2127A92A2475DD160010C08C /* LandmarkList.swift */; };
+		21A9B5F52476521E00F7195D /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21A9B5F42476521E00F7195D /* UserData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -87,6 +88,7 @@
 		2127A91B2475DB610010C08C /* chincoteague.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = chincoteague.jpg; sourceTree = "<group>"; };
 		2127A9282475DBC50010C08C /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 		2127A92A2475DD160010C08C /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
+		21A9B5F42476521E00F7195D /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -184,6 +186,7 @@
 			children = (
 				2127A9092475D9270010C08C /* Landmark.swift */,
 				2127A9282475DBC50010C08C /* Data.swift */,
+				21A9B5F42476521E00F7195D /* UserData.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -369,6 +372,7 @@
 				2127A9052475D4C80010C08C /* MapView.swift in Sources */,
 				2127A8D52475CEEC0010C08C /* SceneDelegate.swift in Sources */,
 				2127A8D72475CEEC0010C08C /* LandmarkDetail.swift in Sources */,
+				21A9B5F52476521E00F7195D /* UserData.swift in Sources */,
 				2127A9292475DBC50010C08C /* Data.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
