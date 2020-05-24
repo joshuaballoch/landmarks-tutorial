@@ -60,5 +60,6 @@ struct CategoryRow_Previews: PreviewProvider {
             categoryName: landmarkData[0].category.rawValue,
             items: Array(landmarkData.prefix(4))
         )
+            .environmentObject(UserData())
     }
 }
