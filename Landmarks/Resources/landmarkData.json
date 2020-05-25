@@ -102,7 +102,7 @@
             "longitude": -143.122586,
             "latitude": 65.350021
         },
-        "imageName": "yukon_charleyrivers"
+        "imageName": "charleyrivers",
     },
     {
         "name": "Icy Bay",
@@ -170,7 +170,7 @@
         "city": "Errol",
         "state": "New Hampshire",
         "id": 1012,
-        "isFeatured": true,
+        "isFeatured": false,
         "isFavorite": false,
         "park": "Umbagog National Wildlife Refuge",
         "coordinates": {
