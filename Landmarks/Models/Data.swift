@@ -11,7 +11,6 @@
 
 import Foundation
 import CoreLocation
-import UIKit
 import SwiftUI
 
 let landmarkData: [Landmark] = load("landmarkData.json")
